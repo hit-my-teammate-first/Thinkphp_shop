@@ -1,0 +1,697 @@
+[ 2018-01-16T08:42:39+08:00 ] 127.0.0.1 /shop/index.php/Home/User/alogin
+ERR: 非法操作:alogin
+
+[ 2018-01-16T09:01:35+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+ERR: 模板不存在:C:/wamp/www/tp/shop/Home/View/User/login.html
+
+[ 2018-01-16T09:02:07+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000650s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001664s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005552s ]
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001370s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002519s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/User/index.php?p=Admin&c=Login&a=Captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+ERR: 非法操作:index.php
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:02:08+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014895s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002072s ]
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001893s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003399s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001577s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/index.php?p=Admin&c=Login&a=Captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+ERR: 非法操作:index.php
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:02:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010733s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/User/index.php?p=Admin&c=Login&a=Captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+ERR: 非法操作:index.php
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:02:52+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:04:57+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001513s ]
+
+[ 2018-01-16T09:04:57+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:04:57+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001523s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:04:57+08:00 ] 127.0.0.1 /shop/index.php/Home/User/Public/Admin/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+ERR: 非法操作:Public
+
+[ 2018-01-16T09:04:57+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:04:58+08:00 ] 127.0.0.1 /shop/index.php/Home/User/index.php?p=Admin&c=Login&a=Captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+ERR: 非法操作:index.php
+
+[ 2018-01-16T09:04:58+08:00 ] 127.0.0.1 /shop/index.php/Home/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-16T09:04:58+08:00 ] 127.0.0.1 /shop/index.php/Home/User/js/validator.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+ERR: 非法操作:js
+
+[ 2018-01-16T09:19:02+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2018-01-16T09:20:34+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+ERR: Think\Controller:dispaly方法不存在！
+
+[ 2018-01-16T09:21:11+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2018-01-16T10:02:42+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2018-01-16T10:17:06+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000369s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2018-01-16T10:17:58+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000363s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000622s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001142s ]
+
+[ 2018-01-16T10:20:18+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000247s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001265s ]
+
+[ 2018-01-16T10:22:20+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000372s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001177s ]
+
+[ 2018-01-16T10:24:27+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000286s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002257s ]
+
+[ 2018-01-16T10:43:40+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000269s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022470s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001180s ]
+
+[ 2018-01-16T10:47:49+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001350s ]
+
+[ 2018-01-16T10:51:42+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001137s ]
+

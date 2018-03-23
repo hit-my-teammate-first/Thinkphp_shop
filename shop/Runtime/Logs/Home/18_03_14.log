@@ -1,0 +1,454 @@
+[ 2018-03-14T10:53:28+08:00 ] 127.0.0.1 /tp/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013742s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `sw_user` WHERE ( username = 12345666 ) LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2018-03-14T10:53:28+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000186s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:53:32+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:53:51+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:53:55+08:00 ] 127.0.0.1 /tp/shop/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001881s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:54:33+08:00 ] 127.0.0.1 /tp/shop/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:54:38+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+ERR: 非法操作:login
+
+[ 2018-03-14T10:54:51+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001494s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:55:04+08:00 ] 127.0.0.1 /tp/shop/index.php/home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:55:26+08:00 ] 127.0.0.1 /tp/shop/index.php/home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001987s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:55:30+08:00 ] 127.0.0.1 /tp/shop/index.php/home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:55:32+08:00 ] 127.0.0.1 /tp/shop/index.php/home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:55:36+08:00 ] 127.0.0.1 /tp/shop/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:55:48+08:00 ] 127.0.0.1 /tp/shop/index.php/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sw_user` WHERE ( username = 12345666 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-03-14T10:55:48+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+NOTIC: [8] Undefined variable: d C:\wamp\www\tp\shop\Home\Controller\IndexController.class.php 第 7 行.
+
+[ 2018-03-14T10:56:22+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0219s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0397s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for C:/wamp/www/tp/shop/Runtime/Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php C:\wamp\www\tp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(C:/wamp/www/tp/shop/Runtime/Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php): No such file or directory C:\wamp\www\tp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.548612s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.548787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.051571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.051724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028128s ]
+INFO: [ app_end ] --END-- [ RunTime:0.028381s ]
+
+[ 2018-03-14T10:56:22+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/basic/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+ERR: 非法操作:basic
+
+[ 2018-03-14T10:58:30+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002963s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0031s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.403881s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.404112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001725s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002339s ]
+
+[ 2018-03-14T11:00:01+08:00 ] 127.0.0.1 /tp/shop/index.php/Home/User/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+
+[ 2018-03-14T11:00:01+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0034s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001879s ]
+
+[ 2018-03-14T11:00:04+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0039s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010895s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001561s ]
+
+[ 2018-03-14T11:02:41+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0043s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.899772s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.900255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001917s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001732s ]
+
+[ 2018-03-14T11:03:12+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0046s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.693371s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.693579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2018-03-14T11:03:49+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002376s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0054s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.469414s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.469625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001720s ]
+
+[ 2018-03-14T11:03:58+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001872s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0052s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.555285s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.555557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+
+[ 2018-03-14T11:04:07+08:00 ] 127.0.0.1 /tp/shop/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001575s ]
+SQL: SHOW COLUMNS FROM `sw_cat` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `sw_cat`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0034s ]
+SQL: SELECT `goods_name`,`goods_price`,`goods_img`,`goods_img_s`,`cat_id`,`status`,`goods_brief` FROM `sw_goods`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
+[ 2018-03-14T11:04:10+08:00 ] 127.0.0.1 /tp/shop/index.php/Home/Order/checkout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+
+[ 2018-03-14T11:04:10+08:00 ] 127.0.0.1 /tp/shop/index.php/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001599s ]
+
+[ 2018-03-14T11:04:10+08:00 ] 127.0.0.1 /tp/shop/index.php/User/jquery-3.3.1.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001749s ]
+ERR: 非法操作:jquery-3.3.1.js
+
+[ 2018-03-14T11:04:10+08:00 ] 127.0.0.1 /tp/shop/index.php/Home/User/VerifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2018-03-14T11:04:10+08:00 ] 127.0.0.1 /tp/shop/index.php/User/jquery-3.3.1.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+ERR: 非法操作:jquery-3.3.1.js
+
+[ 2018-03-14T17:17:53+08:00 ] 127.0.0.1 /tp/shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006026s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015100s ]
+
+[ 2018-03-14T17:17:53+08:00 ] 127.0.0.1 /tp/shop/index.php/Home/User/jquery-3.3.1.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002429s ]
+ERR: 非法操作:jquery-3.3.1.js
+
+[ 2018-03-14T17:17:53+08:00 ] 127.0.0.1 /tp/shop/index.php/Home/User/VerifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2018-03-14T17:17:53+08:00 ] 127.0.0.1 /tp/shop/index.php/Home/User/jquery-3.3.1.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001647s ]
+ERR: 非法操作:jquery-3.3.1.js
+

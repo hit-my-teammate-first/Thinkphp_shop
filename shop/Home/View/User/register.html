@@ -1,0 +1,51 @@
+<html xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <title>注册</title>
+    <script type="text/javascript" src='{$Think.const.PUB_URL}js/jquery/jquery-3.3.1.js'></script>
+    <script type="text/javascript" src='{$Think.const.PUB_URL}js/jquery/register.js'/></script>
+    <script type="text/javascript">
+    //ajax请求地址
+var checkPhone = "__CONTROLLER__/checkPhone";
+var checkusername = "__CONTROLLER__/checkusername";
+var checkCaptcha = "__CONTROLLER__/checkCaptcha";
+    </script>
+</head>
+<body>
+    <div id='logo'></div>
+    <div id='reg-wrap'>
+        <form action="__CONTROLLER__/CheckRegister" method='post' name='register'>
+            <fieldset>
+                <legend><span style="font-weight:bold;font-size:16px;">用户注册</span></legend>
+                <p>
+                    <label for="Phone">手机号：</label>
+                    <input type="text" name='Phone' id='Phone' class='input' placeHolder="6~16个字符"  /><span style="margin-left:5px;color:red" id="Phoneflag"></span>
+                </p>
+                <p>
+                    <label for="pwd">密码：</label>
+                    <input type="password" name='pwd' id='password' placeHolder="6~16个字符" class='input'/><span style="margin-left:5px;color:red" id="passwordflag"></span>
+                </p>
+                <p>
+                    <label for="pwded">确认密码：</label>
+                    <input type="password" name='pwded' id="repassword" class='input'/>
+                    <span style="margin-left:5px;color:red" id="repasswordflag"></span>
+                </p>
+                <p>
+                    <label for="username">昵称：</label>
+                    <input type="text"  name='username' id='username' placeHolder="3~10个字符" class='input'/>
+                    <span style="margin-left:5px;color:red" id="usernameflag"></span>
+                </p>
+                <p>
+                    <label for="Captcha">验证码：</label>
+                    <input type="text" name='Captcha' class='input' id='Captcha'/>
+                    <img src='__MODULE__/User/Captcha'+Math.random() width='137' height='40' id='Captcha-img'/>
+                    <span style="margin-left:5px;color:red" id="Captchaflag"></span>
+                </p>
+                <p class='run'>
+                    <input type="submit" value='马上注册' id='regis'/>
+                </p>
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>

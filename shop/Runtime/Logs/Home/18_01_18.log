@@ -1,0 +1,34 @@
+[ 2018-01-18T14:52:39+08:00 ] ::1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.044377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001506s ]
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 249 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 253 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 254 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 259 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 260 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 262 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: item C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 263 行.
+NOTIC: [8] Undefined variable: title C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 266 行.
+NOTIC: [8] Undefined variable: vote_id C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 268 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 269 行.
+NOTIC: [8] Undefined variable: lang C:\wamp\www\tp\shop\Runtime\Cache\Home\513720a6d5595751eefbd42355f5f071.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.120770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.020444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010250s ]
+

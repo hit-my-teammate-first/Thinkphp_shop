@@ -1,0 +1,64 @@
+[ 2018-01-26T16:35:19+08:00 ] ::1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.053809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025127s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for C:/wamp/www/tp/shop/Runtime/Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php C:\wamp\www\tp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+ERR: Syntax Error in template "C:/wamp/www/tp/shop/Home/View\Index\index.html"  on line 228 ".boxCenterList form{display:inline;}"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2018-01-26T16:36:45+08:00 ] ::1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for C:/wamp/www/tp/shop/Runtime/Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php C:\wamp\www\tp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+ERR: Syntax Error in template "C:/wamp/www/tp/shop/Home/View\Index\index.html"  on line 244 "{insert_scripts files='transport.js'}" unknown tag "insert_scripts"
+
+[ 2018-01-26T16:37:16+08:00 ] ::1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for C:/wamp/www/tp/shop/Runtime/Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php C:\wamp\www\tp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+ERR: Syntax Error in template "C:/wamp/www/tp/shop/Home/View\Index\index.html"  on line 335 "{/if}&lt;div class=&quot;box&quot;&gt;" unexpected closing tag
+
+[ 2018-01-26T16:37:50+08:00 ] ::1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for C:/wamp/www/tp/shop/Runtime/Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php C:\wamp\www\tp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(C:/wamp/www/tp/shop/Runtime/Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php): No such file or directory C:\wamp\www\tp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Undefined index: lang C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 278 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 278 行.
+NOTIC: [8] Undefined index: vote C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 283 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 283 行.
+NOTIC: [8] Undefined index: vote C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 294 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 294 行.
+NOTIC: [8] Undefined index: vote_id C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 320 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 320 行.
+NOTIC: [8] Undefined index: lang C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 322 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 322 行.
+NOTIC: [8] Undefined index: lang C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 324 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 324 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.742433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.742675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.068910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.069209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.109545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.109811s ]
+

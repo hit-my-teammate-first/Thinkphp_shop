@@ -1,0 +1,38 @@
+[ 2018-02-24T13:33:23+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000182s ]
+INFO: [ app_init ] --END-- [ RunTime:0.146228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017646s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: lang C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 278 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 278 行.
+NOTIC: [8] Undefined index: vote C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 283 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 283 行.
+NOTIC: [8] Undefined index: vote C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 294 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 294 行.
+NOTIC: [8] Undefined index: vote_id C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 320 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 320 行.
+NOTIC: [8] Undefined index: lang C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 322 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 322 行.
+NOTIC: [8] Undefined index: lang C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 324 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\tp\shop\Runtime\Cache\00a2269647449e690a158e5b4f1627e69fb01266.file.index.html.php 第 324 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.351929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.352099s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.031565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031748s ]
+
+[ 2018-02-24T13:36:02+08:00 ] 127.0.0.1 /shop/index.php?a=Admin&c=Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载控制器:Admin
+

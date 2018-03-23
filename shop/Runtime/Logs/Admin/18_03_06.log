@@ -1,0 +1,9 @@
+[ 2018-03-06T20:58:09+08:00 ] 127.0.0.1 /tp/shop/index.php/Admin/Index/database.php?act=backup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018744s ]
+ERR: 非法操作:database.php
+
