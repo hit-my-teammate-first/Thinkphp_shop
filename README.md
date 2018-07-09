@@ -4,5 +4,6 @@
         2.商品模块：商品前后台的展示，分类，添加，删除功能
         3.购物模块：商品添加购物车，购物车页面商品展示
         4.RBAC模块：通过管理员，角色，管理权限三张关系表实现不同管理员的权限操作
+        5.商品秒杀功能：使用redis，利用redis队列等简单实现商品秒杀功能
         
-    相关技术：html,css,jquery,ajax,php,thinkphp,mysql
+    相关技术：redis,php,thinkphp,mysql,html,css,jquery,ajax
